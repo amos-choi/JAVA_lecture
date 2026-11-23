@@ -11,9 +11,9 @@ class Homework8{
     while (idandpassword_input){
       System.out.print("ID:");
       String id_input = sc.nextLine();    
-      if(pw_input.compareTo(String key[0] == 0){
+      if(id_input.compareTo(String key[0] == 0){
         System.out.print("password:");
-        if(
+        if(pw_input.compareTo(String key[0] == 0
           System.out.println("id와 비밀번호가 일치합니다.");
         }
         else{
